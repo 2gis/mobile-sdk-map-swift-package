@@ -1,4 +1,4 @@
-# PlatformSDK
+# Mobile Map SDK
 
 A native iOS SDK for working with the 2GIS map.
 
